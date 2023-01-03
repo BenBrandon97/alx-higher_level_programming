@@ -1,3 +1,6 @@
 #!/bin/bash
 python3 $PYFILE
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
