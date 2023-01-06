@@ -11,3 +11,4 @@ if __name__ == '__main__':
             sum += int(av[i])
 
     print(sum)
+
