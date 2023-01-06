@@ -7,3 +7,4 @@ if __name__ == '__main__':
     for i in range(len(def_names)):
         if def_names[i][:2] != '__':
             print(def_names[i])
+
