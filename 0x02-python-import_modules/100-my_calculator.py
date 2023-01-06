@@ -3,11 +3,11 @@ from sys import argv
 from calculator_1 import add, sub, mul, div
 
 if __name__ == '__main__':
-    
     """
-    Handles the basic operations like addition, substraction, multiplication and division between two numbers.
-    The program executes an operation between two numbers selected by the operator sent to the program.
-
+    Handles basic operations like addition, substraction,
+    multiplication and division between two numbers.
+    The program will execute an operation between two numbers
+    selected by the operator sent to the program.
     """
     l_av = len(argv) - 1
 
